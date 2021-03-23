@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Computer vision and Data Science.
-- 🌱 I’m currently learning React native mobile development (just curious :p).
+- 🌱 I’m currently learning One shot learning and siamese network.
 - 👯 I’m looking to collaborate on Machine learning projects.
 - 📫 How to reach me: https://www.linkedin.com/in/balajiom/
 <!--
